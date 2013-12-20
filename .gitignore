@@ -4,3 +4,16 @@
 *.jar
 *.war
 *.ear
+
+.metadata
+RemoteSystemsTempFiles
+Servers
+
+test1/target
+test2/target
+test1/.project
+test1/.classpath
+test2/.project
+test2/.classpath
+test1/.settings
+test2/.settings
